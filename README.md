@@ -37,5 +37,5 @@ Pre-trained models can be downloaded for evaluation as following:
 
 ## For more detail imformation, see:
 ```
-![基于上下文通道注意力机制的人脸属性估计与表情识别](./set/基于上下文通道注意力机制的人脸属性估计与表情识别_徐杰 (1).pdf)
+![基于上下文通道注意力机制的人脸属性估计与表情识别](./set/基于上下文通道注意力机制的人脸属性估计与表情识别.pdf)
 ```
