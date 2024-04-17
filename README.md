@@ -36,4 +36,4 @@ Pre-trained models can be downloaded for evaluation as following:
 ![overview](./set/img/celeba.svg)
 
 ## For more detail imformation, see:
-![paper](./set/基于上下文通道注意力机制的人脸属性估计与表情识别.pdf)
+[基于上下文通道注意力机制的人脸属性估计与表情识别](./set/基于上下文通道注意力机制的人脸属性估计与表情识别.pdf)
