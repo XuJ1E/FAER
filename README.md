@@ -3,7 +3,7 @@
 
 ![overview](./set/img/overall_architecture.svg)
 
-A PyTorch implementation of the [FAER](http://kns.cnki.net/kcms/detail/51.1307.TP.20240408.1747.012.html.).
+A PyTorch implementation of the [FAER](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9qy9Jy50ovh3R_ohTNoNi1Tw2-GgzoZ7z8DdzkZ__gFP4MYpB-sBX-4B9uMnQMOMuFXbwyWaNdzjHNFlDiD6hReqGS5Upt4YNMx6bycOGrmzffSsQ4lXtT_3Nr8wZ-iNNs=&uniplatform=NZKPT&flag=copy).
 
   
 
