@@ -31,6 +31,8 @@ Pre-trained models can be downloaded for evaluation as following:
 
 
 ## Grad CAM++ Reproduction
-![overview](./set/img/grad_cam_affectnet1.emf)
+![overview](./set/img/affectnet.jpg)
+
+
 ![overview](./set/img/celeba.svg)
 
