@@ -37,5 +37,5 @@ Pre-trained models can be downloaded for evaluation as following:
 
 ## For more detail imformation, see:
 ```
-![基于上下文通道注意力机制的人脸属性估计与表情识别](./set/基于上下文通道注意力机制的人脸属性估计与表情识别.pdf)
+![paper](https://github.com/XUJ1Er/FAER/blob/main/set/%E5%9F%BA%E4%BA%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E9%80%9A%E9%81%93%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E7%9A%84%E4%BA%BA%E8%84%B8%E5%B1%9E%E6%80%A7%E4%BC%B0%E8%AE%A1%E4%B8%8E%E8%A1%A8%E6%83%85%E8%AF%86%E5%88%AB.pdf)
 ```
