@@ -33,6 +33,9 @@ Pre-trained models can be downloaded for evaluation as following:
 ## Grad CAM++ Reproduction
 ![overview](./set/img/affectnet.jpg)
 
-
 ![overview](./set/img/celeba.svg)
 
+## For more detail imformation, see:
+```
+![基于上下文通道注意力机制的人脸属性估计与表情识别](./set/基于上下文通道注意力机制的人脸属性估计与表情识别_徐杰 (1).pdf)
+```
