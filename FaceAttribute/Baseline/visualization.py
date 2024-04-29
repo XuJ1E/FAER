@@ -21,7 +21,7 @@ matplotlib.use('TkAgg')
 
 if __name__ == '__main__':
     model = convnext_base(pretrained=False, num_classes=40, drop_path_rate=0.25)
-    checkpoint = torch.load('./weight/model/BASE_MTL_CELEBA_model_best.pth', map_location='cpu')['state_dict']
+    checkpoint = torch.load('./weight/model/BASELINE_model_best.pth', map_location='cpu')['state_dict']
     model.load_state_dict(checkpoint, strict=False)
 
     target_layer = [model.stages[-1]]
