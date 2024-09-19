@@ -23,9 +23,9 @@ from models.convnext import convnext_base
 
 
 parser = argparse.ArgumentParser(description='PyTorch ImageNet Training')
-parser.add_argument('--data_path', default='/home/xuujie_ygc/workspace/MM_FOR_ML/data/CelebA/', help='path to dataset')
+parser.add_argument('--data_path', default='./dataset/CelebA/', help='path to dataset')
 parser.add_argument('--eval_only', default=True, action='store_true')
-parser.add_argument('--eval_ckpt', default='./weight/model/SIMPLE_MTL_CELEBA_model_best.pth',
+parser.add_argument('--eval_ckpt', default='./pretrain/model_best.pth',
                     type=str, help='path to checkpoint for evaluation')
 parser.add_argument('--resume', default=None, type=str, help='path to checkpoint for resume')
 parser.add_argument('--model_path', default='./weight/model', help='path for model checkpoint')
@@ -34,7 +34,7 @@ parser.add_argument('--workers', default=16, type=int, help='number of data load
 parser.add_argument('--epochs', default=30, type=int, help='number of total epochs to run')
 parser.add_argument('--start_epoch', default=0, type=int, help='manual epoch number (useful on restarts)')
 parser.add_argument('--batch_size', default=256, type=int)
-parser.add_argument('--arch', default='SIMPLE_MTL_CELEBA', type=str, help='model type for train')
+parser.add_argument('--arch', default='FAER_CELEBA', type=str, help='model type for train')
 parser.add_argument('--ratio', default=1, type=float, help='mask ratio for BEC loss function')
 parser.add_argument('--drop_path', default=0.25, type=float, help='drop layer of model')
 parser.add_argument('--lr', default=0.001, type=float, help='initial learning rate')
