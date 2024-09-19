@@ -62,7 +62,7 @@ Pre-trained models can be downloaded for evaluation as following:
 
 ## 6、Class-wise accuracy and avg. accuracy of CelebA
 <div align=center>
-<img src="./set/Fig_4a_CelebA20.png" width="800" height="280" />
+<img src="./set/Fig_4a_CelebA20.png" width="800" height="300" />
 
 
 Fig. 4(a) Class-wise accuracy of FAER on CelebA[0:20]
@@ -70,7 +70,7 @@ Fig. 4(a) Class-wise accuracy of FAER on CelebA[0:20]
 
 
 <div align=center>
-<img src="./set/Fig_4b_CelebA20.png" width="800" height="280" />
+<img src="./set/Fig_4b_CelebA20.png" width="800" height="300" />
 
 
 Fig. 4(b) Class-wise accuracy of FAER on CelebA[21:41]
