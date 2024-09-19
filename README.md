@@ -5,7 +5,7 @@
 Grad-CAM for MFER on RAF-DB dataset
 </div>
 <div align=center>
-<img src="./set/Fig_1_Architecture_FAER.png" width="800" height="440" />
+<img src="./set/Fig_1_Architecture_FAER.png" width="800" height="420" />
 
 
 Fig. 1 Architecture of proposed FAER
@@ -15,7 +15,7 @@ A PyTorch implementation of the [FAER](https://kns.cnki.net/kcms2/article/abstra
 
 ## Proposed Contextual Channel Attention mechanism
 <div align=center>
-<img src="./set/Fig_2_Architecture_CC_Attention.png" width="400" height="420" />
+<img src="./set/Fig_2_Architecture_CC_Attention.png" width="380" height="400" />
 
 
 Fig. 2 Architecture of Contextual Channel Attention
@@ -57,7 +57,7 @@ Pre-trained models can be downloaded for evaluation as following:
 
 ## Class-wise accuracy and avg. accuracy of CelebA
 <div align=center>
-<img src="./set/Fig_4a_CelebA20.emf" width="800" height="300" />
+<img src="./set/Fig_4a_CelebA20.png" width="800" height="280" />
 
 
 Fig. 4(a) Class-wise accuracy of FAER on CelebA[0:20]
@@ -65,10 +65,10 @@ Fig. 4(a) Class-wise accuracy of FAER on CelebA[0:20]
 
 
 <div align=center>
-<img src="./set/Fig_4b_CelebA20.emf" width="800" height="300" />
+<img src="./set/Fig_4b_CelebA20.png" width="800" height="280" />
 
 
-Fig. 4(b) Class-wise accuracy of FAER on CelebA[21:40]
+Fig. 4(b) Class-wise accuracy of FAER on CelebA[21:41]
 </div>
 
 
@@ -77,7 +77,7 @@ Fig. 4(b) Class-wise accuracy of FAER on CelebA[21:40]
 Grad-CAM for FAER on CelebA dataset
 </div>
 <div align=center>
-<img src="./set/Fig_5_Grad-CAM_CelebA.png" width="650" height="450" />
+<img src="./set/Fig_5_Grad-CAM_CelebA.png" width="700" height="500" />
 
 
 Fig. 5 Grad-CAM visualization on CelebA dataset
