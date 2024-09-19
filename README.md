@@ -24,9 +24,10 @@ Fig. 2 Architecture of Contextual Channel Attention
 
 
 ## 2、Preparation
-- Download pre-trained model of [MSCeleb](https://drive.google.com/file/d/1H421M8mosIVt8KsEWQ1UuYMkQS8X1prf/view?usp=sharing).
-- Download [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset and extract to `./datasets` dir.
-- Download [AffectNet](http://mohammadmahoor.com/affectnet/) dadtaset and extract the to `./datasets` dir.
+- Download pre-trained model of MSCeleb (we will add the URL soon~~~).
+- Download [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset and extract to `./dataset` dir.
+- Download [RAF-DB](http://www.whdeng.cn/raf/model1.html) dataset and extract to `./dataset` dir.
+- Download [AffectNet](http://mohammadmahoor.com/affectnet/) dadtaset and extract the to `./dataset` dir.
 
 
 ## 3、Note:
