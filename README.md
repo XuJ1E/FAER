@@ -1,5 +1,6 @@
 # 基于上下文通道注意力机制的人脸属性估计与表情识别
-# （Facial attribute estimation and expression recognition based on contextual channel attention mechanism）
+# Facial attribute estimation and expression recognition based on contextual channel attention mechanism
+
 
 <div align=center>
 Grad-CAM for MFER on RAF-DB dataset
