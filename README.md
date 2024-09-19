@@ -106,15 +106,21 @@ Our research code is released under the MIT license. See [LICENSE](./LICENSE) fo
 ## Reference
 you may want to cite:
 ```
-@ARTICLE{10678884,
-  title={Multiscale Facial Expression Recognition Based on Dynamic Global and Static Local Attention}, 
-  author={Xu, Jie and Li, Yang and Yang, Guanci and He, Ling and Luo, Kexin},
-  journal={IEEE Transactions on Affective Computing}, 
+@ARTICLE{徐杰2024基于上下文通道注意力机制的人脸属性估计与表情识别,
+  title={基于上下文通道注意力机制的人脸属性估计与表情识别},
+  author={徐杰 and 钟勇 and 王阳 and 张昌福 and 杨观赐},
+  journal={计算机应用},
+  pages={0},
   year={2024},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TAFFC.2024.3458464}}
+  doi={10.11772/j.issn.1001-9081.2024010098}}
+
+@ARTICLE{Xu Jie 2024 Facial attribute estimation and expression recognition based on contextual channel attention mechanism,
+  title={Facial attribute estimation and expression recognition based on contextual channel attention mechanism},
+  author={Xu, Jie and Zhong, Yong and Wang, Yang and Zhang, Changfu and Yang, Guanci},
+  journal={Journal of Computer Applications},
+  pages={0},
+  year={2024},
+  doi={10.11772/j.issn.1001-9081.2024010098}}
 ```
 
 
