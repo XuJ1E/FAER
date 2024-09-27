@@ -1,6 +1,12 @@
-# 基于上下文通道注意力机制的人脸属性估计与表情识别
-# Facial attribute estimation and expression recognition based on contextual channel attention mechanism
+# <div align=center> 基于上下文通道注意力机制的人脸属性估计与表情识别 </div>
+# <div align=center> Facial attribute estimation and expression recognition based on contextual channel attention mechanism </div>
+### <div align=center> XU Jie<sup>1</sup>, ZHONG Yong<sup>2</sup>, WANG Yang<sup>3</sup>, ZHANG Changfu<sup>4</sup>, YANG Guanci<sup>1,3*</sup></div>
+<div align=center> 1. Advanced Manufacturing Technology of the Ministry of Education (Guizhou University), Guiyang Guizhou 550025, China;</div>
+<div align=center> 2. Chengdu Institute of Computer Application, Chinese Academy of Sciences, Chengdu Sichuan 610041, China; </div>
+<div align=center> 3. State Key Laboratory of Public Big Data (Guizhou University), Guiyang Guizhou 550025, China; </div>
+<div align=center> 4. School of Mechanical Engineering, Guizhou University, Guiyang Guizhou 550025, China </div>
 
+---
 
 <div align=center>
 Grad-CAM for MFER on RAF-DB dataset
